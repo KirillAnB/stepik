@@ -1,2 +1,4 @@
 Just for onflict
 line from local
+line from git
+
